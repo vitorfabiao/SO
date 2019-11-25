@@ -30,8 +30,8 @@ ___________________________________________________________________*/
 	printf("Value of the environment variable <MAXMSG>: %d\n",value_maxmsg);
 /*_________________________________________________________________
 
-			Cria ligação entre o gestor e o verificador
-___________________________________________________________________*/
+			Cria ligação entre o gestor e o verificador  
+__________________________________________________________________*/
 
     int pstdin[2],pstdout[2]; //cria dois vetores de inteiros 
     pipe(pstdin); //cria o pipe responsavel por levar a info do pai para o filho
