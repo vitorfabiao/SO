@@ -4,7 +4,6 @@
 #include <stdlib.h>
 #include "estruturac.h"
 
-
 #endif
 
 
