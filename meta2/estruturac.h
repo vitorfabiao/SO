@@ -7,13 +7,12 @@
 #include <fcntl.h>
 #include <ctype.h>
 #include <stdio.h>
-#include <ncurses.h>
 #include <stdlib.h>
 #include <fcntl.h>
 
 
 typedef struct Menssagem Menssage;
-struct Menssage{
+struct Menssagem{
 	char corpo[10][100];
 	char titulo[100];
 	int duracao; 

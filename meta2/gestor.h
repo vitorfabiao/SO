@@ -1,9 +1,11 @@
 #ifndef GESTOR_H_
 #define GESTOR_H_
-#include "estrutura.h"
+#include "estruturag.h"
 
 void help();
 void shutdown();
+void mostra_users(Menssage *menssages);
+void mostra_topics (Menssage *menssages);
 
 
 

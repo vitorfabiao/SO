@@ -9,10 +9,10 @@ clientes: clientes.o
 verificador: verificador.c
 	gcc verificador.c -o verificador
 
-gestor.o: gestor.c gestor.h estrutura.h
+gestor.o: gestor.c gestor.h estruturag.h
 	gcc gestor.c -c
 
-clientes.o: clientes.c clientes.h estrutura.h
+clientes.o: clientes.c clientes.h estruturac.h
 	gcc clientes.c -c
 
 clear:
