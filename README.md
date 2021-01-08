@@ -1,2 +1,2 @@
 # SO
-Cadeira fudd
+Cadeira fudd- 71%
