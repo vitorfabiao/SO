@@ -1,2 +1,2 @@
 # SO
-Cadeira fudd- 71%
+Cadeira complicada- 71%
